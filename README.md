@@ -1,6 +1,5 @@
 # SQL-EMPLOYEE-DATABASE-EDA
-
-
+![employee](Employee.png)
 
 
 
